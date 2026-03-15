@@ -50,7 +50,7 @@ export default function Home() {
               opacity: [0.3, 0.1, 0.3],
             }}
             transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
-            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[1000px] h-[1000px] rounded-full bg-gradient-radial from-[#ff4d00]/30 via-[#ff4d00]/5 to-transparent"
+            className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] md:w-[800px] md:h-[800px] lg:w-[1000px] lg:h-[1000px] rounded-full bg-gradient-radial from-[#ff4d00]/30 via-[#ff4d00]/5 to-transparent"
           />
           
           {/* Grid pattern */}
@@ -83,7 +83,7 @@ export default function Home() {
         {/* Large Animated Target - Background */}
         <motion.div 
           style={{ scale }}
-          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[700px]"
+          className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[300px] h-[300px] md:w-[500px] md:h-[500px] lg:w-[700px] lg:h-[700px]"
         >
           <AnimatedTarget className="w-full h-full opacity-40" />
         </motion.div>
@@ -137,7 +137,7 @@ export default function Home() {
                 initial={{ y: 100 }}
                 animate={{ y: 0 }}
                 transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-                className="text-7xl md:text-9xl lg:text-[12rem] font-black uppercase tracking-tighter leading-[0.85]"
+                className="text-5xl sm:text-7xl md:text-9xl lg:text-[12rem] font-black uppercase tracking-tighter leading-[0.85]"
               >
                 <span className="block text-white drop-shadow-[0_0_40px_rgba(255,255,255,0.1)]">
                   {t("hero.title1")}
@@ -149,7 +149,7 @@ export default function Home() {
                 initial={{ y: 100 }}
                 animate={{ y: 0 }}
                 transition={{ duration: 0.8, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
-                className="text-7xl md:text-9xl lg:text-[12rem] font-black uppercase tracking-tighter leading-[0.85]"
+                className="text-5xl sm:text-7xl md:text-9xl lg:text-[12rem] font-black uppercase tracking-tighter leading-[0.85]"
               >
                 <span className="block bg-gradient-to-r from-[#ff4d00] via-[#ff6b2c] to-[#ff4d00] bg-clip-text text-transparent drop-shadow-[0_0_60px_rgba(255,77,0,0.5)]">
                   {t("hero.title2")}
