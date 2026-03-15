@@ -138,7 +138,7 @@ export default function RezerwacjaPage() {
               initial={{ y: 100 }}
               animate={{ y: 0 }}
               transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-              className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter"
+              className="text-3xl sm:text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter"
             >
               <span className="text-white">{t("hero.title1")}</span>
             </motion.h1>
@@ -148,7 +148,7 @@ export default function RezerwacjaPage() {
               initial={{ y: 100 }}
               animate={{ y: 0 }}
               transition={{ duration: 0.8, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
-              className="text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter"
+              className="text-3xl sm:text-5xl md:text-7xl lg:text-8xl font-black uppercase tracking-tighter"
             >
               <span className="bg-gradient-to-r from-[#ff4d00] via-[#ff6b2c] to-[#ff4d00] bg-clip-text text-transparent">
                 {t("hero.title2")}

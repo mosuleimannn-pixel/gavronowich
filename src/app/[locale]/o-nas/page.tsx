@@ -62,7 +62,7 @@ export default function ONasPage() {
               initial={{ y: 100 }}
               animate={{ y: 0 }}
               transition={{ duration: 0.8, ease: [0.16, 1, 0.3, 1] }}
-              className="text-6xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter"
+              className="text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter"
             >
               <span className="text-white drop-shadow-[0_0_40px_rgba(255,255,255,0.1)]">{t("hero.title1")}</span>
             </motion.h1>
@@ -72,7 +72,7 @@ export default function ONasPage() {
               initial={{ y: 100 }}
               animate={{ y: 0 }}
               transition={{ duration: 0.8, delay: 0.1, ease: [0.16, 1, 0.3, 1] }}
-              className="text-6xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter"
+              className="text-4xl sm:text-6xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter"
             >
               <span className="bg-gradient-to-r from-[#ff4d00] via-[#ff6b2c] to-[#ff4d00] bg-clip-text text-transparent drop-shadow-[0_0_60px_rgba(255,77,0,0.5)]">
                 {t("hero.title2")}
@@ -164,7 +164,7 @@ export default function ONasPage() {
             <span className="text-[#ff4d00] text-sm font-bold uppercase tracking-[0.3em]">
               {t("timeline.subtitle")}
             </span>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
+            <h2 className="text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
               {t("timeline.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("timeline.title2")}
@@ -225,7 +225,7 @@ export default function ONasPage() {
             <span className="text-[#ff4d00] text-sm font-bold uppercase tracking-[0.3em]">
               {t("values.subtitle")}
             </span>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
+            <h2 className="text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
               {t("values.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("values.title2")}
@@ -282,7 +282,7 @@ export default function ONasPage() {
             <span className="text-[#ff4d00] text-sm font-bold uppercase tracking-[0.3em]">
               {t("team.subtitle")}
             </span>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
+            <h2 className="text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight mt-4 text-white">
               {t("team.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("team.title2")}
@@ -351,7 +351,7 @@ export default function ONasPage() {
             <div className="w-32 h-32 mx-auto mb-10">
               <AnimatedTarget />
             </div>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight mb-8 text-white">
+            <h2 className="text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight mb-8 text-white">
               {t("cta.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("cta.title2")}

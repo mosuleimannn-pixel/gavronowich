@@ -347,7 +347,7 @@ export default function Home() {
             >
               {t("why.subtitle")}
             </motion.span>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight text-white">
+            <h2 className="text-3xl sm:text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight text-white">
               {t("why.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("why.title2")}
@@ -515,7 +515,7 @@ export default function Home() {
             <span className="inline-block text-[#ff4d00] text-sm font-bold uppercase tracking-[0.3em] mb-4">
               {t("infrastructure.subtitle")}
             </span>
-            <h2 className="text-4xl md:text-6xl font-black uppercase tracking-tight text-white">
+            <h2 className="text-2xl sm:text-4xl md:text-6xl font-black uppercase tracking-tight text-white">
               {t("infrastructure.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("infrastructure.title2")}
@@ -557,7 +557,7 @@ export default function Home() {
             <div className="w-28 h-28 mx-auto mb-10">
               <AnimatedTarget />
             </div>
-            <h2 className="text-5xl md:text-7xl font-black uppercase tracking-tight mb-8 text-white">
+            <h2 className="text-3xl sm:text-3xl sm:text-5xl md:text-7xl font-black uppercase tracking-tight mb-8 text-white">
               {t("cta.title1")}{" "}
               <span className="bg-gradient-to-r from-[#ff4d00] to-[#ff8533] bg-clip-text text-transparent">
                 {t("cta.title2")}
