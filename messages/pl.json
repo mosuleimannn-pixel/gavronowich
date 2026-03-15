@@ -1,0 +1,363 @@
+{
+  "nav": {
+    "start": "Start",
+    "oferta": "Oferta",
+    "galeria": "Galeria",
+    "oNas": "O Nas",
+    "kontakt": "Kontakt",
+    "rezerwacja": "Rezerwacja"
+  },
+  "hero": {
+    "badge": "Profesjonalna Strzelnica Taktyczna",
+    "title1": "Poczuj",
+    "title2": "Adrenalinę",
+    "description": "Profesjonalne szkolenia strzeleckie, eventy firmowe i niezapomniane doświadczenia taktyczne w Polsce.",
+    "cta1": "Zarezerwuj teraz",
+    "cta2": "Zobacz galerie"
+  },
+  "arsenal": {
+    "subtitle": "Nasz Arsenał",
+    "title": "Broń do Wyboru",
+    "description": "Interaktywne Modele 3D — Obracaj Myszką",
+    "seeAll": "Zobacz Pełny Arsenał",
+    "types": {
+      "pistolet": "Pistolet",
+      "karabin": "Karabin",
+      "strzelba": "Strzelba"
+    }
+  },
+  "why": {
+    "subtitle": "Dlaczego my",
+    "title1": "Profesjonalne",
+    "title2": "podejście",
+    "features": {
+      "precision": { "title": "Precyzja", "desc": "Wykwalifikowana kadra z wieloletnim doświadczeniem wojskowym i sportowym." },
+      "safety": { "title": "Bezpieczeństwo", "desc": "Najwyższe standardy bezpieczeństwa i regularnie serwisowany sprzęt." },
+      "equipment": { "title": "Sprzęt", "desc": "Szeroki wybór broni krótkiej i długiej najwyższej jakości." },
+      "technique": { "title": "Technika", "desc": "Nauka kontroli odrzutu i zaawansowanych technik strzeleckich." }
+    }
+  },
+  "services": {
+    "subtitle": "Nasza oferta",
+    "title1": "Szkolenia",
+    "title2": "Eventy",
+    "description": "Od podstawowych szkoleń strzeleckich przez zaawansowane kursy taktyczne po eventy firmowe i wieczory kawalerskie. Dopasujemy ofertę do Twoich potrzeb.",
+    "list": [
+      "Szkolenia podstawowe i zaawansowane",
+      "Kursy taktyczne z profesjonalistami",
+      "Eventy firmowe i team building",
+      "Imprezy okolicznościowe"
+    ],
+    "cta": "Zobacz pełną ofertę"
+  },
+  "offers": {
+    "subtitle": "Nasza Oferta",
+    "title1": "Wybierz",
+    "title2": "Pakiet",
+    "from": "od",
+    "currency": "zł",
+    "book": "Zarezerwuj",
+    "packages": {
+      "basic": {
+        "name": "Pakiet Podstawowy",
+        "desc": "Idealny na początek przygody ze strzelectwem",
+        "features": ["Instruktaż bezpieczeństwa", "30 min na strzelnicy", "Pistolet 9mm", "20 sztuk amunicji", "Ochrona słuchu i wzroku"]
+      },
+      "advanced": {
+        "name": "Pakiet Zaawansowany",
+        "desc": "Dla osób szukających więcej wrażeń",
+        "popular": "Popularny",
+        "features": ["Wszystko z pakietu podstawowego", "60 min na strzelnicy", "3 rodzaje broni", "50 sztuk amunicji", "Certyfikat ukończenia"]
+      },
+      "premium": {
+        "name": "Pakiet Premium",
+        "desc": "Pełne doświadczenie taktyczne",
+        "features": ["Wszystko z pakietu zaawansowanego", "120 min na strzelnicy", "5 rodzajów broni", "100 sztuk amunicji", "Nagranie wideo", "Prywatny instruktor"]
+      }
+    }
+  },
+  "stats": {
+    "years": "Lat doświadczenia",
+    "clients": "Zadowolonych klientów",
+    "weapons": "Rodzajów broni",
+    "rating": "Ocena Google"
+  },
+  "infrastructure": {
+    "subtitle": "Infrastruktura",
+    "title1": "Profesjonalne",
+    "title2": "stanowiska",
+    "description": "Nowoczesne stanowiska strzeleckie z automatycznym systemem tarcz i pełnym wyposażeniem"
+  },
+  "cta": {
+    "title1": "Gotowy na",
+    "title2": "wyzwanie",
+    "description": "Zarezerwuj termin już dziś i poczuj prawdziwą adrenalinę na profesjonalnej strzelnicy taktycznej.",
+    "button": "Zarezerwuj wizytę"
+  },
+  "rezerwacjaPage": {
+    "hero": {
+      "badge": "Rezerwacja online",
+      "title1": "Zarezerwuj",
+      "title2": "Termin",
+      "description": "Wybierz usługę, termin i liczbę uczestników"
+    },
+    "steps": {
+      "service": "Usługa",
+      "datetime": "Data i godzina",
+      "details": "Dane kontaktowe"
+    },
+    "services": {
+      "basic": { "name": "Szkolenie podstawowe", "price": "od 200 PLN" },
+      "advanced": { "name": "Kurs zaawansowany", "price": "od 450 PLN" },
+      "corporate": { "name": "Event firmowy", "price": "Indywidualnie" },
+      "bachelor": { "name": "Wieczór kawalerski", "price": "od 150 PLN/os" }
+    },
+    "form": {
+      "selectService": "Wybierz usługę",
+      "date": "Data",
+      "time": "Godzina",
+      "participants": "Liczba osób",
+      "name": "Imię i nazwisko",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Uwagi (opcjonalnie)",
+      "next": "Dalej",
+      "back": "Wstecz",
+      "submit": "Wyślij rezerwację",
+      "submitting": "Wysyłanie..."
+    },
+    "success": {
+      "title": "Rezerwacja wysłana!",
+      "description": "Dziękujemy za rezerwację. Skontaktujemy się z Tobą w ciągu 24 godzin, aby potwierdzić termin i omówić szczegóły.",
+      "service": "Usługa",
+      "date": "Data",
+      "time": "Godzina",
+      "participants": "Liczba osób"
+    },
+    "times": ["10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+  },
+  "oNasPage": {
+    "hero": {
+      "badge": "Poznaj Nas",
+      "title1": "Nasza",
+      "title2": "Historia",
+      "description": "Od pasji do profesjonalizmu. Poznaj ludzi i wartości, które nas definiują."
+    },
+    "story": {
+      "subtitle": "Nasza misja",
+      "title1": "Pasja",
+      "title2": "do strzelectwa",
+      "p1": "Gavronowich powstało z pasji do strzelectwa sportowego i chęci dzielenia się tą pasją z innymi. Od początku naszym celem było stworzenie miejsca, gdzie każdy - od początkującego po zaawansowanego strzelca - może rozwijać swoje umiejętności w bezpiecznym i profesjonalnym środowisku.",
+      "p2": "Dziś jesteśmy dumni z tego, że możemy oferować najwyższej jakości szkolenia, nowoczesny sprzęt i niezapomniane doświadczenia dla tysięcy osób rocznie."
+    },
+    "timeline": {
+      "subtitle": "Nasza droga",
+      "title1": "Historia",
+      "title2": "rozwoju",
+      "items": {
+        "2015": { "title": "Początek", "desc": "Założenie strzelnicy z pasji do strzelectwa" },
+        "2017": { "title": "Rozwój", "desc": "Rozszerzenie oferty o eventy firmowe" },
+        "2019": { "title": "Ekspansja", "desc": "Nowe stanowiska i szerszy arsenał broni" },
+        "2022": { "title": "Modernizacja", "desc": "Pełna modernizacja infrastruktury" },
+        "2024": { "title": "Dziś", "desc": "Lider rynku szkoleń strzeleckich" }
+      }
+    },
+    "values": {
+      "subtitle": "Nasze wartości",
+      "title1": "Co nas",
+      "title2": "wyróżnia",
+      "items": {
+        "safety": { "title": "Bezpieczeństwo", "desc": "Najwyższy priorytet w każdym aspekcie działalności" },
+        "quality": { "title": "Jakość", "desc": "Tylko najlepszy sprzęt i wykwalifikowana kadra" },
+        "passion": { "title": "Pasja", "desc": "Kochamy to, co robimy i dzielimy się tą pasją" },
+        "innovation": { "title": "Innowacja", "desc": "Ciągle się rozwijamy i wprowadzamy nowości" }
+      }
+    },
+    "team": {
+      "subtitle": "Nasz zespół",
+      "title1": "Poznaj",
+      "title2": "instruktorów",
+      "experience": "lat doświadczenia",
+      "specialty": "Specjalizacja",
+      "members": {
+        "michal": { "name": "Michał Kowalski", "role": "Założyciel & Główny Instruktor", "exp": "15", "spec": "Taktyka wojskowa" },
+        "anna": { "name": "Anna Nowak", "role": "Instruktor", "exp": "8", "spec": "Szkolenia podstawowe" },
+        "piotr": { "name": "Piotr Wiśniewski", "role": "Instruktor", "exp": "12", "spec": "Strzelanie sportowe" }
+      }
+    },
+    "cta": {
+      "title1": "Dołącz do",
+      "title2": "nas",
+      "description": "Przekonaj się sam, dlaczego tysiące osób nam zaufało",
+      "button": "Zarezerwuj wizytę"
+    }
+  },
+  "kontaktPage": {
+    "hero": {
+      "badge": "Skontaktuj się",
+      "title": "Kontakt",
+      "description": "Masz pytania? Chcesz zarezerwować termin? Skontaktuj się z nami - odpowiemy jak najszybciej."
+    },
+    "info": {
+      "title1": "Dane",
+      "title2": "kontaktowe",
+      "phone": "Telefon",
+      "email": "Email",
+      "address": "Adres",
+      "hours": "Godziny otwarcia",
+      "addressValue": "ul. Strzelecka 1, 00-001 Warszawa",
+      "hoursValue": "Pon-Pt: 10:00-20:00\nSob-Nd: 10:00-18:00",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "title1": "Napisz",
+      "title2": "do nas",
+      "name": "Imię i nazwisko",
+      "email": "Email",
+      "phone": "Telefon (opcjonalnie)",
+      "subject": "Temat",
+      "message": "Wiadomość",
+      "send": "Wyślij wiadomość",
+      "sending": "Wysyłanie...",
+      "success": "Wiadomość wysłana!",
+      "successDesc": "Dziękujemy za kontakt. Odpowiemy jak najszybciej.",
+      "subjects": {
+        "reservation": "Rezerwacja",
+        "training": "Szkolenie",
+        "event": "Event firmowy",
+        "other": "Inne"
+      }
+    },
+    "map": {
+      "title1": "Jak do nas",
+      "title2": "dojechać",
+      "description": "Jesteśmy łatwo dostępni samochodem i komunikacją miejską"
+    }
+  },
+  "galeriaPage": {
+    "hero": {
+      "badge": "Nasza galeria",
+      "title1": "Zobacz nas",
+      "title2": "w akcji",
+      "description": "Zdjęcia i filmy z naszej strzelnicy, szkoleń i eventów"
+    },
+    "filters": {
+      "all": "Wszystko",
+      "range": "Strzelnica",
+      "training": "Szkolenia",
+      "events": "Eventy",
+      "weapons": "Broń"
+    },
+    "mediaType": {
+      "all": "Wszystko",
+      "photos": "Zdjęcia",
+      "videos": "Filmy"
+    },
+    "items": {
+      "range1": { "title": "Strzelnica taktyczna", "desc": "Profesjonalne stanowiska strzeleckie" },
+      "training1": { "title": "Szkolenie dynamiczne", "desc": "Zaawansowane techniki strzeleckie" },
+      "event1": { "title": "Event firmowy", "desc": "Integracja zespołu na strzelnicy" },
+      "weapons1": { "title": "Arsenal - Karabiny", "desc": "Karabiny AR-15 i AK-47" },
+      "bachelor": { "title": "Wieczór kawalerski", "desc": "Niezapomniana impreza" },
+      "precision": { "title": "Strzelanie precyzyjne", "desc": "Nauka celowania i kontroli" },
+      "equipment": { "title": "Profesjonalny sprzęt", "desc": "Broń najwyższej jakości" },
+      "competition": { "title": "Konkurs strzelecki", "desc": "Rywalizacja na celność" },
+      "advanced": { "title": "Kurs zaawansowany", "desc": "Dla doświadczonych strzelców" },
+      "pistols": { "title": "Pistolety", "desc": "Glock, CZ, Beretta" },
+      "indoor": { "title": "Strzelnica indoor", "desc": "Klimatyzowane pomieszczenie" },
+      "teambuilding": { "title": "Team building", "desc": "Integracja przez rywalizację" }
+    },
+    "cta": {
+      "title": "Chcesz być częścią?",
+      "description": "Zarezerwuj swoją sesję i stwórz własne wspomnienia",
+      "button": "Zarezerwuj teraz"
+    },
+    "instagram": "Obserwuj nas",
+    "close": "Zamknij"
+  },
+  "ofertaPage": {
+    "hero": {
+      "badge": "Profesjonalna oferta",
+      "title1": "Nasza",
+      "title2": "Oferta",
+      "description": "Kompleksowe szkolenia strzeleckie dla każdego poziomu zaawansowania"
+    },
+    "services": {
+      "basic": {
+        "title": "Szkolenie podstawowe",
+        "description": "Idealne dla początkujących. Nauka bezpiecznego obchodzenia się z bronią, podstawy celowania i strzelania.",
+        "duration": "2-3 godziny",
+        "includes": ["Wprowadzenie teoretyczne", "Zapoznanie z bronią", "Praktyczne ćwiczenia strzeleckie", "Certyfikat ukończenia"],
+        "price": "od 200",
+        "currency": "PLN"
+      },
+      "advanced": {
+        "title": "Kurs zaawansowany",
+        "description": "Dla osób z doświadczeniem. Zaawansowane techniki strzeleckie, strzelanie dynamiczne.",
+        "duration": "4-6 godzin",
+        "includes": ["Techniki zaawansowane", "Strzelanie dynamiczne", "Różne rodzaje broni", "Indywidualne podejście"],
+        "price": "od 450",
+        "currency": "PLN"
+      },
+      "corporate": {
+        "title": "Eventy firmowe",
+        "description": "Integracja zespołu na najwyższym poziomie. Konkursy strzeleckie, team building.",
+        "duration": "3-5 godzin",
+        "includes": ["Organizacja całego eventu", "Konkursy zespołowe", "Catering (opcjonalnie)", "Nagrody dla zwycięzców"],
+        "price": "Wycena",
+        "currency": "indywidualnie"
+      },
+      "bachelor": {
+        "title": "Wieczór kawalerski",
+        "description": "Niezapomniany wieczór kawalerski. Adrenalina, rywalizacja i mnóstwo zabawy.",
+        "duration": "3-4 godziny",
+        "includes": ["Pakiet amunicji", "Różne rodzaje broni", "Konkursy i wyzwania", "Upominki dla uczestników"],
+        "price": "od 150",
+        "currency": "PLN/os"
+      }
+    },
+    "bookNow": "Zarezerwuj teraz",
+    "popular": "Popularne",
+    "arsenal": {
+      "subtitle": "Nasz arsenał",
+      "title1": "Broń",
+      "title2": "dostępna",
+      "description": "Szeroki wybór broni krótkiej i długiej od renomowanych producentów"
+    },
+    "weapons": {
+      "pistol": "Pistolet",
+      "compactPistol": "Pistolet kompaktowy",
+      "rifle": "Karabin",
+      "shotgun": "Strzelba"
+    },
+    "process": {
+      "subtitle": "Jak to działa",
+      "title1": "Prosty",
+      "title2": "proces",
+      "steps": {
+        "book": { "title": "Zarezerwuj", "desc": "Wybierz pakiet i termin online" },
+        "arrive": { "title": "Przyjdź", "desc": "Przywitamy Cię na miejscu" },
+        "train": { "title": "Strzelaj", "desc": "Szkolenie pod okiem instruktora" },
+        "enjoy": { "title": "Ciesz się", "desc": "Zabierz certyfikat i wspomnienia" }
+      }
+    },
+    "cta": {
+      "title1": "Gotowy na",
+      "title2": "przygodę",
+      "description": "Zarezerwuj swoją sesję już dziś",
+      "contact": "Masz pytania?",
+      "contactBtn": "Skontaktuj się"
+    }
+  },
+  "footer": {
+    "description": "Profesjonalna strzelnica taktyczna w Polsce. Szkolenia, eventy i niezapomniane doświadczenia.",
+    "navigation": "Nawigacja",
+    "services": "Usługi",
+    "contact": "Kontakt",
+    "rights": "Wszelkie prawa zastrzeżone.",
+    "training": "Szkolenia strzeleckie",
+    "events": "Eventy firmowe",
+    "bachelor": "Wieczory kawalerskie",
+    "tactical": "Kursy taktyczne"
+  }
+}

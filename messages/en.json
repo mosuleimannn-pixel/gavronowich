@@ -1,0 +1,363 @@
+{
+  "nav": {
+    "start": "Home",
+    "oferta": "Services",
+    "galeria": "Gallery",
+    "oNas": "About Us",
+    "kontakt": "Contact",
+    "rezerwacja": "Book Now"
+  },
+  "hero": {
+    "badge": "Professional Tactical Shooting Range",
+    "title1": "Feel the",
+    "title2": "Adrenaline",
+    "description": "Professional shooting training, corporate events and unforgettable tactical experiences in Poland.",
+    "cta1": "Book now",
+    "cta2": "View gallery"
+  },
+  "arsenal": {
+    "subtitle": "Our Arsenal",
+    "title": "Weapons Selection",
+    "description": "Interactive 3D Models — Rotate with Mouse",
+    "seeAll": "View Full Arsenal",
+    "types": {
+      "pistolet": "Pistol",
+      "karabin": "Rifle",
+      "strzelba": "Shotgun"
+    }
+  },
+  "why": {
+    "subtitle": "Why us",
+    "title1": "Professional",
+    "title2": "Approach",
+    "features": {
+      "precision": { "title": "Precision", "desc": "Qualified staff with years of military and sports experience." },
+      "safety": { "title": "Safety", "desc": "Highest safety standards and regularly maintained equipment." },
+      "equipment": { "title": "Equipment", "desc": "Wide selection of handguns and long guns of the highest quality." },
+      "technique": { "title": "Technique", "desc": "Learn recoil control and advanced shooting techniques." }
+    }
+  },
+  "services": {
+    "subtitle": "Our services",
+    "title1": "Training",
+    "title2": "Events",
+    "description": "From basic shooting courses to advanced tactical training to corporate events and bachelor parties. We'll tailor the offer to your needs.",
+    "list": [
+      "Basic and advanced training",
+      "Tactical courses with professionals",
+      "Corporate events and team building",
+      "Special occasions"
+    ],
+    "cta": "View full services"
+  },
+  "offers": {
+    "subtitle": "Our Services",
+    "title1": "Choose Your",
+    "title2": "Package",
+    "from": "from",
+    "currency": "€",
+    "book": "Book Now",
+    "packages": {
+      "basic": {
+        "name": "Basic Package",
+        "desc": "Perfect for beginners",
+        "features": ["Safety briefing", "30 min at the range", "9mm Pistol", "20 rounds of ammo", "Hearing and eye protection"]
+      },
+      "advanced": {
+        "name": "Advanced Package",
+        "desc": "For those seeking more thrills",
+        "popular": "Popular",
+        "features": ["Everything from Basic", "60 min at the range", "3 different weapons", "50 rounds of ammo", "Completion certificate"]
+      },
+      "premium": {
+        "name": "Premium Package",
+        "desc": "The full tactical experience",
+        "features": ["Everything from Advanced", "120 min at the range", "5 different weapons", "100 rounds of ammo", "Video recording", "Private instructor"]
+      }
+    }
+  },
+  "stats": {
+    "years": "Years of experience",
+    "clients": "Satisfied clients",
+    "weapons": "Types of weapons",
+    "rating": "Google rating"
+  },
+  "infrastructure": {
+    "subtitle": "Infrastructure",
+    "title1": "Professional",
+    "title2": "Shooting Lanes",
+    "description": "Modern shooting lanes with automatic target system and full equipment"
+  },
+  "cta": {
+    "title1": "Ready for the",
+    "title2": "Challenge",
+    "description": "Book your appointment today and experience real adrenaline at a professional tactical shooting range.",
+    "button": "Book your visit"
+  },
+  "rezerwacjaPage": {
+    "hero": {
+      "badge": "Online Booking",
+      "title1": "Book Your",
+      "title2": "Appointment",
+      "description": "Choose service, date and number of participants"
+    },
+    "steps": {
+      "service": "Service",
+      "datetime": "Date & Time",
+      "details": "Contact Details"
+    },
+    "services": {
+      "basic": { "name": "Basic Training", "price": "from €50" },
+      "advanced": { "name": "Advanced Course", "price": "from €110" },
+      "corporate": { "name": "Corporate Event", "price": "On Request" },
+      "bachelor": { "name": "Bachelor Party", "price": "from €35/person" }
+    },
+    "form": {
+      "selectService": "Select service",
+      "date": "Date",
+      "time": "Time",
+      "participants": "Number of participants",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Notes (optional)",
+      "next": "Next",
+      "back": "Back",
+      "submit": "Send reservation",
+      "submitting": "Sending..."
+    },
+    "success": {
+      "title": "Reservation sent!",
+      "description": "Thank you for your reservation. We will contact you within 24 hours to confirm the appointment and discuss details.",
+      "service": "Service",
+      "date": "Date",
+      "time": "Time",
+      "participants": "Participants"
+    },
+    "times": ["10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+  },
+  "oNasPage": {
+    "hero": {
+      "badge": "About Us",
+      "title1": "Our",
+      "title2": "Story",
+      "description": "From passion to professionalism. Meet the people and values that define us."
+    },
+    "story": {
+      "subtitle": "Our Mission",
+      "title1": "Passion",
+      "title2": "for Shooting",
+      "p1": "Gavronowich was born from a passion for sport shooting and the desire to share that passion with others. From the beginning, our goal was to create a place where everyone - from beginner to advanced shooter - can develop their skills in a safe and professional environment.",
+      "p2": "Today, we are proud to offer top-quality training, modern equipment, and unforgettable experiences for thousands of people annually."
+    },
+    "timeline": {
+      "subtitle": "Our Journey",
+      "title1": "History of",
+      "title2": "Growth",
+      "items": {
+        "2015": { "title": "Beginning", "desc": "Founding the range from passion for shooting" },
+        "2017": { "title": "Growth", "desc": "Expansion to corporate events" },
+        "2019": { "title": "Expansion", "desc": "New lanes and larger weapon arsenal" },
+        "2022": { "title": "Modernization", "desc": "Complete infrastructure modernization" },
+        "2024": { "title": "Today", "desc": "Market leader in shooting training" }
+      }
+    },
+    "values": {
+      "subtitle": "Our Values",
+      "title1": "What makes us",
+      "title2": "different",
+      "items": {
+        "safety": { "title": "Safety", "desc": "Highest priority in every aspect of operations" },
+        "quality": { "title": "Quality", "desc": "Only the best equipment and qualified staff" },
+        "passion": { "title": "Passion", "desc": "We love what we do and share that passion" },
+        "innovation": { "title": "Innovation", "desc": "Constantly evolving and introducing new things" }
+      }
+    },
+    "team": {
+      "subtitle": "Our Team",
+      "title1": "Meet our",
+      "title2": "Instructors",
+      "experience": "years experience",
+      "specialty": "Specialty",
+      "members": {
+        "michal": { "name": "Michał Kowalski", "role": "Founder & Head Instructor", "exp": "15", "spec": "Military tactics" },
+        "anna": { "name": "Anna Nowak", "role": "Instructor", "exp": "8", "spec": "Basic training" },
+        "piotr": { "name": "Piotr Wiśniewski", "role": "Instructor", "exp": "12", "spec": "Sport shooting" }
+      }
+    },
+    "cta": {
+      "title1": "Join",
+      "title2": "us",
+      "description": "See for yourself why thousands trust us",
+      "button": "Book your visit"
+    }
+  },
+  "kontaktPage": {
+    "hero": {
+      "badge": "Get in touch",
+      "title": "Contact",
+      "description": "Have questions? Want to book an appointment? Contact us - we'll respond as soon as possible."
+    },
+    "info": {
+      "title1": "Contact",
+      "title2": "Information",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Opening Hours",
+      "addressValue": "ul. Strzelecka 1, 00-001 Warsaw",
+      "hoursValue": "Mon-Fri: 10:00-20:00\nSat-Sun: 10:00-18:00",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "title1": "Write to",
+      "title2": "us",
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone (optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent!",
+      "successDesc": "Thank you for contacting us. We'll respond as soon as possible.",
+      "subjects": {
+        "reservation": "Reservation",
+        "training": "Training",
+        "event": "Corporate Event",
+        "other": "Other"
+      }
+    },
+    "map": {
+      "title1": "How to",
+      "title2": "find us",
+      "description": "We are easily accessible by car and public transport"
+    }
+  },
+  "galeriaPage": {
+    "hero": {
+      "badge": "Our Gallery",
+      "title1": "See us",
+      "title2": "in Action",
+      "description": "Photos and videos from our shooting range, training and events"
+    },
+    "filters": {
+      "all": "All",
+      "range": "Range",
+      "training": "Training",
+      "events": "Events",
+      "weapons": "Weapons"
+    },
+    "mediaType": {
+      "all": "All",
+      "photos": "Photos",
+      "videos": "Videos"
+    },
+    "items": {
+      "range1": { "title": "Tactical Range", "desc": "Professional shooting lanes" },
+      "training1": { "title": "Dynamic Training", "desc": "Advanced shooting techniques" },
+      "event1": { "title": "Corporate Event", "desc": "Team integration at the range" },
+      "weapons1": { "title": "Arsenal - Rifles", "desc": "AR-15 and AK-47 rifles" },
+      "bachelor": { "title": "Bachelor Party", "desc": "Unforgettable party" },
+      "precision": { "title": "Precision Shooting", "desc": "Aiming and control training" },
+      "equipment": { "title": "Professional Equipment", "desc": "Highest quality weapons" },
+      "competition": { "title": "Shooting Competition", "desc": "Accuracy competition" },
+      "advanced": { "title": "Advanced Course", "desc": "For experienced shooters" },
+      "pistols": { "title": "Pistols", "desc": "Glock, CZ, Beretta" },
+      "indoor": { "title": "Indoor Range", "desc": "Air-conditioned facility" },
+      "teambuilding": { "title": "Team Building", "desc": "Integration through competition" }
+    },
+    "cta": {
+      "title": "Want to be part of it?",
+      "description": "Book your session and create your own memories",
+      "button": "Book now"
+    },
+    "instagram": "Follow us",
+    "close": "Close"
+  },
+  "ofertaPage": {
+    "hero": {
+      "badge": "Professional Services",
+      "title1": "Our",
+      "title2": "Services",
+      "description": "Comprehensive shooting training for every skill level"
+    },
+    "services": {
+      "basic": {
+        "title": "Basic Training",
+        "description": "Ideal for beginners. Learn safe weapon handling, aiming fundamentals and shooting basics.",
+        "duration": "2-3 hours",
+        "includes": ["Theoretical introduction", "Weapon familiarization", "Practical shooting exercises", "Completion certificate"],
+        "price": "from 50",
+        "currency": "€"
+      },
+      "advanced": {
+        "title": "Advanced Course",
+        "description": "For experienced shooters. Advanced shooting techniques, dynamic shooting.",
+        "duration": "4-6 hours",
+        "includes": ["Advanced techniques", "Dynamic shooting", "Various weapon types", "Individual approach"],
+        "price": "from 110",
+        "currency": "€"
+      },
+      "corporate": {
+        "title": "Corporate Events",
+        "description": "Team integration at the highest level. Shooting competitions, team building.",
+        "duration": "3-5 hours",
+        "includes": ["Complete event organization", "Team competitions", "Catering (optional)", "Prizes for winners"],
+        "price": "Quote",
+        "currency": "on request"
+      },
+      "bachelor": {
+        "title": "Bachelor Party",
+        "description": "Unforgettable bachelor party. Adrenaline, competition and lots of fun.",
+        "duration": "3-4 hours",
+        "includes": ["Ammo package", "Various weapon types", "Competitions and challenges", "Gifts for participants"],
+        "price": "from 35",
+        "currency": "€/person"
+      }
+    },
+    "bookNow": "Book now",
+    "popular": "Popular",
+    "arsenal": {
+      "subtitle": "Our arsenal",
+      "title1": "Available",
+      "title2": "Weapons",
+      "description": "Wide selection of handguns and long guns from renowned manufacturers"
+    },
+    "weapons": {
+      "pistol": "Pistol",
+      "compactPistol": "Compact Pistol",
+      "rifle": "Rifle",
+      "shotgun": "Shotgun"
+    },
+    "process": {
+      "subtitle": "How it works",
+      "title1": "Simple",
+      "title2": "Process",
+      "steps": {
+        "book": { "title": "Book", "desc": "Choose package and date online" },
+        "arrive": { "title": "Arrive", "desc": "We'll welcome you on site" },
+        "train": { "title": "Shoot", "desc": "Training with instructor guidance" },
+        "enjoy": { "title": "Enjoy", "desc": "Take home certificate and memories" }
+      }
+    },
+    "cta": {
+      "title1": "Ready for the",
+      "title2": "Adventure",
+      "description": "Book your session today",
+      "contact": "Questions?",
+      "contactBtn": "Contact us"
+    }
+  },
+  "footer": {
+    "description": "Professional tactical shooting range in Poland. Training, events and unforgettable experiences.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "training": "Shooting training",
+    "events": "Corporate events",
+    "bachelor": "Bachelor parties",
+    "tactical": "Tactical courses"
+  }
+}

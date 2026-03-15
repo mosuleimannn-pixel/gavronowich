@@ -1,0 +1,363 @@
+{
+  "nav": {
+    "start": "Start",
+    "oferta": "Angebot",
+    "galeria": "Galerie",
+    "oNas": "Über Uns",
+    "kontakt": "Kontakt",
+    "rezerwacja": "Reservierung"
+  },
+  "hero": {
+    "badge": "Professioneller Taktischer Schießstand",
+    "title1": "Spüre das",
+    "title2": "Adrenalin",
+    "description": "Professionelles Schießtraining, Firmenevents und unvergessliche taktische Erlebnisse in Polen.",
+    "cta1": "Jetzt buchen",
+    "cta2": "Galerie ansehen"
+  },
+  "arsenal": {
+    "subtitle": "Unser Arsenal",
+    "title": "Waffenauswahl",
+    "description": "Interaktive 3D-Modelle — Mit der Maus drehen",
+    "seeAll": "Komplettes Arsenal Ansehen",
+    "types": {
+      "pistolet": "Pistole",
+      "karabin": "Gewehr",
+      "strzelba": "Schrotflinte"
+    }
+  },
+  "why": {
+    "subtitle": "Warum wir",
+    "title1": "Professioneller",
+    "title2": "Ansatz",
+    "features": {
+      "precision": { "title": "Präzision", "desc": "Qualifiziertes Personal mit langjähriger militärischer und sportlicher Erfahrung." },
+      "safety": { "title": "Sicherheit", "desc": "Höchste Sicherheitsstandards und regelmäßig gewartete Ausrüstung." },
+      "equipment": { "title": "Ausrüstung", "desc": "Große Auswahl an Kurz- und Langwaffen höchster Qualität." },
+      "technique": { "title": "Technik", "desc": "Erlernen von Rückstoßkontrolle und fortgeschrittenen Schießtechniken." }
+    }
+  },
+  "services": {
+    "subtitle": "Unser Angebot",
+    "title1": "Training",
+    "title2": "Events",
+    "description": "Von grundlegenden Schießkursen über fortgeschrittene taktische Ausbildung bis hin zu Firmenevents und Junggesellenabschieden. Wir passen das Angebot an Ihre Bedürfnisse an.",
+    "list": [
+      "Grund- und Fortgeschrittenentraining",
+      "Taktische Kurse mit Profis",
+      "Firmenevents und Teambuilding",
+      "Besondere Anlässe"
+    ],
+    "cta": "Vollständiges Angebot ansehen"
+  },
+  "offers": {
+    "subtitle": "Unser Angebot",
+    "title1": "Wählen Sie",
+    "title2": "Ihr Paket",
+    "from": "ab",
+    "currency": "€",
+    "book": "Reservieren",
+    "packages": {
+      "basic": {
+        "name": "Basis-Paket",
+        "desc": "Ideal für den Einstieg ins Schießen",
+        "features": ["Sicherheitseinweisung", "30 Min. am Schießstand", "9mm Pistole", "20 Schuss Munition", "Gehör- und Augenschutz"]
+      },
+      "advanced": {
+        "name": "Fortgeschrittenen-Paket",
+        "desc": "Für mehr Action und Erlebnis",
+        "popular": "Beliebt",
+        "features": ["Alles aus dem Basis-Paket", "60 Min. am Schießstand", "3 verschiedene Waffen", "50 Schuss Munition", "Teilnahmezertifikat"]
+      },
+      "premium": {
+        "name": "Premium-Paket",
+        "desc": "Das volle taktische Erlebnis",
+        "features": ["Alles aus dem Fortgeschrittenen-Paket", "120 Min. am Schießstand", "5 verschiedene Waffen", "100 Schuss Munition", "Video-Aufnahme", "Privater Instruktor"]
+      }
+    }
+  },
+  "stats": {
+    "years": "Jahre Erfahrung",
+    "clients": "Zufriedene Kunden",
+    "weapons": "Waffenarten",
+    "rating": "Google Bewertung"
+  },
+  "infrastructure": {
+    "subtitle": "Infrastruktur",
+    "title1": "Professionelle",
+    "title2": "Schießstände",
+    "description": "Moderne Schießstände mit automatischem Zielsystem und vollständiger Ausrüstung"
+  },
+  "cta": {
+    "title1": "Bereit für die",
+    "title2": "Herausforderung",
+    "description": "Buchen Sie noch heute einen Termin und erleben Sie echtes Adrenalin auf dem professionellen taktischen Schießstand.",
+    "button": "Termin buchen"
+  },
+  "rezerwacjaPage": {
+    "hero": {
+      "badge": "Online-Reservierung",
+      "title1": "Termin",
+      "title2": "buchen",
+      "description": "Wählen Sie Service, Datum und Teilnehmerzahl"
+    },
+    "steps": {
+      "service": "Service",
+      "datetime": "Datum & Zeit",
+      "details": "Kontaktdaten"
+    },
+    "services": {
+      "basic": { "name": "Grundkurs", "price": "ab 50€" },
+      "advanced": { "name": "Fortgeschrittenenkurs", "price": "ab 110€" },
+      "corporate": { "name": "Firmenevent", "price": "Auf Anfrage" },
+      "bachelor": { "name": "Junggesellenabschied", "price": "ab 35€/Person" }
+    },
+    "form": {
+      "selectService": "Service auswählen",
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "participants": "Teilnehmerzahl",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "message": "Anmerkungen (optional)",
+      "next": "Weiter",
+      "back": "Zurück",
+      "submit": "Reservierung senden",
+      "submitting": "Wird gesendet..."
+    },
+    "success": {
+      "title": "Reservierung gesendet!",
+      "description": "Vielen Dank für Ihre Reservierung. Wir werden Sie innerhalb von 24 Stunden kontaktieren, um den Termin zu bestätigen.",
+      "service": "Service",
+      "date": "Datum",
+      "time": "Uhrzeit",
+      "participants": "Teilnehmer"
+    },
+    "times": ["10:00", "11:00", "12:00", "13:00", "14:00", "15:00", "16:00", "17:00", "18:00"]
+  },
+  "oNasPage": {
+    "hero": {
+      "badge": "Über Uns",
+      "title1": "Unsere",
+      "title2": "Geschichte",
+      "description": "Von der Leidenschaft zur Professionalität. Lernen Sie die Menschen und Werte kennen, die uns ausmachen."
+    },
+    "story": {
+      "subtitle": "Unsere Mission",
+      "title1": "Leidenschaft",
+      "title2": "für den Schießsport",
+      "p1": "Gavronowich entstand aus der Leidenschaft für den Schießsport und dem Wunsch, diese Leidenschaft mit anderen zu teilen. Von Anfang an war es unser Ziel, einen Ort zu schaffen, an dem jeder - vom Anfänger bis zum fortgeschrittenen Schützen - seine Fähigkeiten in einer sicheren und professionellen Umgebung entwickeln kann.",
+      "p2": "Heute sind wir stolz darauf, hochwertige Schulungen, moderne Ausrüstung und unvergessliche Erlebnisse für Tausende von Menschen jährlich anbieten zu können."
+    },
+    "timeline": {
+      "subtitle": "Unser Weg",
+      "title1": "Geschichte der",
+      "title2": "Entwicklung",
+      "items": {
+        "2015": { "title": "Anfang", "desc": "Gründung des Schießstands aus Leidenschaft" },
+        "2017": { "title": "Wachstum", "desc": "Erweiterung um Firmenevents" },
+        "2019": { "title": "Expansion", "desc": "Neue Stände und größeres Waffenarsenal" },
+        "2022": { "title": "Modernisierung", "desc": "Vollständige Infrastruktur-Modernisierung" },
+        "2024": { "title": "Heute", "desc": "Marktführer im Schießtraining" }
+      }
+    },
+    "values": {
+      "subtitle": "Unsere Werte",
+      "title1": "Was uns",
+      "title2": "auszeichnet",
+      "items": {
+        "safety": { "title": "Sicherheit", "desc": "Höchste Priorität in allen Bereichen" },
+        "quality": { "title": "Qualität", "desc": "Nur beste Ausrüstung und qualifiziertes Personal" },
+        "passion": { "title": "Leidenschaft", "desc": "Wir lieben was wir tun und teilen es gerne" },
+        "innovation": { "title": "Innovation", "desc": "Ständige Weiterentwicklung und Neuerungen" }
+      }
+    },
+    "team": {
+      "subtitle": "Unser Team",
+      "title1": "Lernen Sie unsere",
+      "title2": "Instruktoren kennen",
+      "experience": "Jahre Erfahrung",
+      "specialty": "Spezialisierung",
+      "members": {
+        "michal": { "name": "Michał Kowalski", "role": "Gründer & Hauptinstruktor", "exp": "15", "spec": "Militärtaktik" },
+        "anna": { "name": "Anna Nowak", "role": "Instruktorin", "exp": "8", "spec": "Grundausbildung" },
+        "piotr": { "name": "Piotr Wiśniewski", "role": "Instruktor", "exp": "12", "spec": "Sportschießen" }
+      }
+    },
+    "cta": {
+      "title1": "Werden Sie Teil",
+      "title2": "von uns",
+      "description": "Überzeugen Sie sich selbst, warum Tausende uns vertrauen",
+      "button": "Termin buchen"
+    }
+  },
+  "kontaktPage": {
+    "hero": {
+      "badge": "Kontaktieren Sie uns",
+      "title": "Kontakt",
+      "description": "Haben Sie Fragen? Möchten Sie einen Termin buchen? Kontaktieren Sie uns - wir antworten so schnell wie möglich."
+    },
+    "info": {
+      "title1": "Kontakt",
+      "title2": "daten",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "hours": "Öffnungszeiten",
+      "addressValue": "ul. Strzelecka 1, 00-001 Warschau",
+      "hoursValue": "Mo-Fr: 10:00-20:00\nSa-So: 10:00-18:00",
+      "instagram": "Instagram"
+    },
+    "form": {
+      "title1": "Schreiben Sie",
+      "title2": "uns",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon (optional)",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "send": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "success": "Nachricht gesendet!",
+      "successDesc": "Vielen Dank für Ihre Kontaktaufnahme. Wir antworten so schnell wie möglich.",
+      "subjects": {
+        "reservation": "Reservierung",
+        "training": "Training",
+        "event": "Firmenevent",
+        "other": "Sonstiges"
+      }
+    },
+    "map": {
+      "title1": "So finden Sie",
+      "title2": "uns",
+      "description": "Wir sind gut erreichbar mit dem Auto und öffentlichen Verkehrsmitteln"
+    }
+  },
+  "galeriaPage": {
+    "hero": {
+      "badge": "Unsere Galerie",
+      "title1": "Sehen Sie uns",
+      "title2": "in Aktion",
+      "description": "Fotos und Videos von unserem Schießstand, Training und Events"
+    },
+    "filters": {
+      "all": "Alle",
+      "range": "Schießstand",
+      "training": "Training",
+      "events": "Events",
+      "weapons": "Waffen"
+    },
+    "mediaType": {
+      "all": "Alle",
+      "photos": "Fotos",
+      "videos": "Videos"
+    },
+    "items": {
+      "range1": { "title": "Taktischer Schießstand", "desc": "Professionelle Schießstände" },
+      "training1": { "title": "Dynamisches Training", "desc": "Fortgeschrittene Schießtechniken" },
+      "event1": { "title": "Firmenevent", "desc": "Teamintegration am Schießstand" },
+      "weapons1": { "title": "Arsenal - Gewehre", "desc": "AR-15 und AK-47 Gewehre" },
+      "bachelor": { "title": "Junggesellenabschied", "desc": "Unvergessliche Party" },
+      "precision": { "title": "Präzisionsschießen", "desc": "Ziel- und Kontrolltraining" },
+      "equipment": { "title": "Professionelle Ausrüstung", "desc": "Waffen höchster Qualität" },
+      "competition": { "title": "Schießwettbewerb", "desc": "Genauigkeitswettkampf" },
+      "advanced": { "title": "Fortgeschrittenenkurs", "desc": "Für erfahrene Schützen" },
+      "pistols": { "title": "Pistolen", "desc": "Glock, CZ, Beretta" },
+      "indoor": { "title": "Indoor-Schießstand", "desc": "Klimatisierter Raum" },
+      "teambuilding": { "title": "Teambuilding", "desc": "Integration durch Wettkampf" }
+    },
+    "cta": {
+      "title": "Möchten Sie dabei sein?",
+      "description": "Buchen Sie Ihre Session und schaffen Sie eigene Erinnerungen",
+      "button": "Jetzt buchen"
+    },
+    "instagram": "Folgen Sie uns",
+    "close": "Schließen"
+  },
+  "ofertaPage": {
+    "hero": {
+      "badge": "Professionelles Angebot",
+      "title1": "Unser",
+      "title2": "Angebot",
+      "description": "Umfassendes Schießtraining für jedes Erfahrungsniveau"
+    },
+    "services": {
+      "basic": {
+        "title": "Grundkurs",
+        "description": "Ideal für Anfänger. Erlernen des sicheren Umgangs mit Waffen, Grundlagen des Zielens und Schießens.",
+        "duration": "2-3 Stunden",
+        "includes": ["Theoretische Einführung", "Kennenlernen der Waffen", "Praktische Schießübungen", "Teilnahmezertifikat"],
+        "price": "ab 50",
+        "currency": "€"
+      },
+      "advanced": {
+        "title": "Fortgeschrittenenkurs",
+        "description": "Für erfahrene Schützen. Fortgeschrittene Schießtechniken, dynamisches Schießen.",
+        "duration": "4-6 Stunden",
+        "includes": ["Fortgeschrittene Techniken", "Dynamisches Schießen", "Verschiedene Waffenarten", "Individuelle Betreuung"],
+        "price": "ab 110",
+        "currency": "€"
+      },
+      "corporate": {
+        "title": "Firmenevents",
+        "description": "Teamintegration auf höchstem Niveau. Schießwettbewerbe, Teambuilding.",
+        "duration": "3-5 Stunden",
+        "includes": ["Komplette Eventorganisation", "Teamwettbewerbe", "Catering (optional)", "Preise für Gewinner"],
+        "price": "Angebot",
+        "currency": "auf Anfrage"
+      },
+      "bachelor": {
+        "title": "Junggesellenabschied",
+        "description": "Unvergesslicher Junggesellenabschied. Adrenalin, Wettkampf und jede Menge Spaß.",
+        "duration": "3-4 Stunden",
+        "includes": ["Munitionspaket", "Verschiedene Waffenarten", "Wettbewerbe und Challenges", "Geschenke für Teilnehmer"],
+        "price": "ab 35",
+        "currency": "€/Person"
+      }
+    },
+    "bookNow": "Jetzt buchen",
+    "popular": "Beliebt",
+    "arsenal": {
+      "subtitle": "Unser Arsenal",
+      "title1": "Verfügbare",
+      "title2": "Waffen",
+      "description": "Große Auswahl an Kurz- und Langwaffen von renommierten Herstellern"
+    },
+    "weapons": {
+      "pistol": "Pistole",
+      "compactPistol": "Kompaktpistole",
+      "rifle": "Gewehr",
+      "shotgun": "Schrotflinte"
+    },
+    "process": {
+      "subtitle": "So funktioniert's",
+      "title1": "Einfacher",
+      "title2": "Ablauf",
+      "steps": {
+        "book": { "title": "Buchen", "desc": "Paket und Termin online wählen" },
+        "arrive": { "title": "Ankommen", "desc": "Wir begrüßen Sie vor Ort" },
+        "train": { "title": "Schießen", "desc": "Training unter Anleitung" },
+        "enjoy": { "title": "Genießen", "desc": "Zertifikat und Erinnerungen mitnehmen" }
+      }
+    },
+    "cta": {
+      "title1": "Bereit für das",
+      "title2": "Abenteuer",
+      "description": "Buchen Sie noch heute Ihre Session",
+      "contact": "Fragen?",
+      "contactBtn": "Kontaktieren Sie uns"
+    }
+  },
+  "footer": {
+    "description": "Professioneller taktischer Schießstand in Polen. Training, Events und unvergessliche Erlebnisse.",
+    "navigation": "Navigation",
+    "services": "Dienstleistungen",
+    "contact": "Kontakt",
+    "rights": "Alle Rechte vorbehalten.",
+    "training": "Schießtraining",
+    "events": "Firmenevents",
+    "bachelor": "Junggesellenabschiede",
+    "tactical": "Taktische Kurse"
+  }
+}
